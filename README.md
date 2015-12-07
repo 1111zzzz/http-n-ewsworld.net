@@ -16,10 +16,6 @@ http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
 
 
 
-            
-    </header>    
-    
-	<div style="clear: both;"></div>
 <div id="core">
 
 <div id="content">
