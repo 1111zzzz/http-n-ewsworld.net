@@ -144,38 +144,7 @@ http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
 
 <div id="comments">
 
-			<h3 id="comments-title">Один ответ на Рисунки простым карандашом. Художник Гурам Доленджашвили.</h3>
-            <div class="hrline"></div> 
-
-			<ol class="commentlist">
-						<li class="comment even thread-even depth-1" id="comment-2">
-				<div id="div-comment-2" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/cf097cd121357ee3a498d3ae8794d067?s=48&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/cf097cd121357ee3a498d3ae8794d067?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Зоя Дайнеко</cite><span class="says">:</span>		</div>
-		
-		<div class="comment-meta commentmetadata"><a href="http://n-ewsworld.net/risunki-prostyim-karandashom-hudozhnik-guram-dolendzhashvili/#comment-2">
-			06.12.2015 в 01:41</a>&nbsp;&nbsp;<a class="comment-edit-link" href="http://n-ewsworld.net/wp-admin/comment.php?action=editcomment&amp;c=2">(Изменить)</a>		</div>
-
-		<p>Это так тонко &#8212; сколько света, а снег &#8212; такой пушистый!</p>
-
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://n-ewsworld.net/risunki-prostyim-karandashom-hudozhnik-guram-dolendzhashvili/?replytocom=2#respond' onclick='return addComment.moveForm( "div-comment-2", "2", "respond", "212" )' aria-label='Комментарий к записи Зоя Дайнеко'>Ответить</a></div>
-				</div>
-		</li><!-- #comment-## -->
-			</ol>
-
-
-
-						<div id="respond" class="comment-respond">
-				<h3 id="reply-title" class="comment-reply-title">Добавить комментарий <small><a rel="nofollow" id="cancel-comment-reply-link" href="/risunki-prostyim-karandashom-hudozhnik-guram-dolendzhashvili/#respond" style="display:none;">Отменить ответ</a></small></h3>
-									<form action="http://n-ewsworld.net/wp-comments-post.php" method="post" id="commentform" class="comment-form">
-																			<p class="logged-in-as">Вы вошли как <a href="http://n-ewsworld.net/wp-admin/profile.php">admin</a>. <a href="http://n-ewsworld.net/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fn-ewsworld.net%2Frisunki-prostyim-karandashom-hudozhnik-guram-dolendzhashvili%2F&amp;_wpnonce=e8c866da59" title="Выйти из этой учётной записи">Выйти?</a></p>																			<p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8"  aria-required="true" required="required"></textarea></p>						
-						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Отправить комментарий" /> <input type='hidden' name='comment_post_ID' value='212' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><input type="hidden" id="_wp_unfiltered_html_comment_disabled" name="_wp_unfiltered_html_comment_disabled" value="9a6f6f876f" /><script>(function(){if(window===window.parent){document.getElementById('_wp_unfiltered_html_comment_disabled').name='_wp_unfiltered_html_comment';}})();</script>
-					</form>
-							</div><!-- #respond -->
 			
-</div><!-- #comments -->
 
 <p>
 <span class="fl" style="width:45%;">&laquo; <a href="http://n-ewsworld.net/lish-tot-kogo-nevozmozhno-dobit-dobyotsya-uspeha/" rel="prev">Лишь тот, кого невозможно добить, добьётся успеха!</a></span><span class="fr" style="width:45%; text-align:right"><a href="http://n-ewsworld.net/drevniy-hram-v-skale-petra-iordaniya/" rel="next">Древний храм в скале, Петра, Иордания</a> &raquo;</span>
