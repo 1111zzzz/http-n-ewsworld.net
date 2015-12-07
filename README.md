@@ -14,39 +14,6 @@ http://n-ewsworld.net/esli-tebya-vyipisali-iz-sumasshedshego-do/
 http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
 
 
-</ul>	  <form class="searchformhead" method="get" action="http://n-ewsworld.net">
-<input type="text" name="s" class="s" size="30" value="Поиск по сайту..." onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск по сайту...';}" /><input type="submit" class="searchSubmit" value="" />
-</form>            
-        </nav>
-        <div style="clear: both;"></div>
-        
-                        
-            <a class="homelink" href="http://n-ewsworld.net/">
-            
-                <img id="logo" src="http://n-ewsworld.net/wp-content/uploads/1.bmp" alt="Мир позитивных новостей"/>
-                    
-            </a>
-                
-                  
-          
-          	          
-          
-          	
-              
-          	<a id="triggernav" href="#">MENU</a>
-          
-            <nav id="navigation">
-            
-                <ul id="main-nav" class="nav custom-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7"><a href="http://n-ewsworld.net/">Главная</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-73"><a href="http://n-ewsworld.net/category/%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d0%b5/">Животные</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://n-ewsworld.net/category/mir-vokrug-nas/">Мир вокруг нас</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="http://n-ewsworld.net/category/%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%b8%d0%b2/">Позитив</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://n-ewsworld.net/category/%d1%80%d0%b5%d1%82%d1%80%d0%be/">Ретро</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://n-ewsworld.net/category/tsitatyi-i-aforizmyi/">Цитаты и афоризмы</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-211"><a href="http://n-ewsworld.net/category/iskusstvo/">Искусство</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63"><a href="http://n-ewsworld.net/category/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be/">Видео</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-228"><a href="http://n-ewsworld.net/category/neveroyatnoe/">Невероятное</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-269"><a href="http://n-ewsworld.net/category/avto/">Авто</a></li>
 </ul>	                  
             </nav>
             
