@@ -1,3 +1,4 @@
+Мир позитивных новостей
 # http-n-ewsworld.net
 Позитив, цитаты, афоризмы, остроумие, юмор, природа, отдых
 
@@ -14,8 +15,7 @@ http://n-ewsworld.net/esli-tebya-vyipisali-iz-sumasshedshego-do/
 http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
 
 
-</ul>	                  
-            </nav>
+
             
     </header>    
     
