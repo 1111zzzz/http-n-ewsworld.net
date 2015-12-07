@@ -60,8 +60,5 @@ http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
                      </a>
                      
                                 
-					<p class="meta">Дек 7 &bull; 99 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/u-hudozhnikov-inoe-ne-dostupnoe-drugim-vospriyatie-mira/" title="У художников иное, не доступное другим восприятие мира">У художников иное, не доступное другим восприятие мира</a></p>
-
-			</li>
+					
 			            
