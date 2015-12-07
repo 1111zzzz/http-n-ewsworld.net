@@ -49,16 +49,4 @@ http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
 <div class="hrline"></div>
 
 
-		<h3 class="additional">Похожие Записи</h3>
-			<ul class="related">	
-				
-			            <li><span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                        
-				                
-                     <a href="http://n-ewsworld.net/u-hudozhnikov-inoe-ne-dostupnoe-drugim-vospriyatie-mira/" title="У художников иное, не доступное другим восприятие мира" >
-                     
-                            <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/7_0_prichudlivye-218x240.jpg" class="attachment-carousel wp-post-image" alt="7_0_prichudlivye" title="" />                            
-                     </a>
-                     
-                                
-					
-			            
+	
