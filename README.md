@@ -412,14 +412,6 @@ http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
 			
 			<li class="fblock">
                     
-					                         <a href="http://n-ewsworld.net/amerikanskiy-spisok-samyih-strannyih-po-ih-mneniyu-russkih-obyichaev/" title="Американский список самых странных, по их мнению, русских обычаев" >
-                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/3Z-j1PgVz1g-90x90.jpg" class="attachment-widgets wp-post-image" alt="3Z-j1PgVz1g" title="" />                         </a>
-                                            
-                    <h3 class="upperfont"><a href="http://n-ewsworld.net/amerikanskiy-spisok-samyih-strannyih-po-ih-mneniyu-russkih-obyichaev/" title="Американский список самых странных, по их мнению, русских обычаев">Американский список самых странных, по их мнению, русских обычаев</a></h3>
-                    <p class="meta">Дек 5 &bull; 763 Просмотров</p>
-                                            
-			</li>
-
-						</ul>
+					                         <a 
 
 		
