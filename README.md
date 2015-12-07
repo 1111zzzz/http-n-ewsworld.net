@@ -64,38 +64,4 @@ http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
                     <p><a class="title" href="http://n-ewsworld.net/u-hudozhnikov-inoe-ne-dostupnoe-drugim-vospriyatie-mira/" title="У художников иное, не доступное другим восприятие мира">У художников иное, не доступное другим восприятие мира</a></p>
 
 			</li>
-			            <li><span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                        
-				                
-                     <a href="http://n-ewsworld.net/sobaki-kotoryie-ne-ponimayut-chto-oni-ogromnyi/" title="Собаки, которые не понимают что они огромны" >
-                     
-                            <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/image-64-218x240.jpg" class="attachment-carousel wp-post-image" alt="image (64)" title="" />                            
-                     </a>
-                     
-                                
-					<p class="meta">Дек 5 &bull; 521 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/sobaki-kotoryie-ne-ponimayut-chto-oni-ogromnyi/" title="Собаки, которые не понимают что они огромны">Собаки, которые не понимают что они огромны</a></p>
-
-			</li>
-			            <li><span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                        
-				                
-                     <a href="http://n-ewsworld.net/udivitelnyie-podvodnyie-sobaki/" title="Удивительные подводные собаки" >
-                     
-                            <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/image-49-218x240.jpg" class="attachment-carousel wp-post-image" alt="image (49)" title="" />                            
-                     </a>
-                     
-                                
-					<p class="meta">Дек 4 &bull; 295 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/udivitelnyie-podvodnyie-sobaki/" title="Удивительные подводные собаки">Удивительные подводные собаки</a></p>
-
-			</li>
-						</ul>
-			<div style="clear: both;"></div>
-
-<div style="clear: both;"></div>
-
-
-
-
-
-
-		
+			            
