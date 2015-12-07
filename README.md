@@ -13,29 +13,31 @@ http://n-ewsworld.net/esli-tebya-vyipisali-iz-sumasshedshego-do/
 Если человек действительно чего-то захочет, то вся Вселенная будет способствовать тому, чтобы его желание сбылось
 http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
 
+
+
 <!DOCTYPE html>
 <!--[if IE 6]>
 <html id="ie6" lang="ru-RU"
 	itemscope 
-	itemtype="http://schema.org/Blog" 
+	itemtype="http://schema.org/Article" 
 	prefix="og: http://ogp.me/ns#"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <![endif]-->
 <!--[if IE 7]>
 <html id="ie7" lang="ru-RU"
 	itemscope 
-	itemtype="http://schema.org/Blog" 
+	itemtype="http://schema.org/Article" 
 	prefix="og: http://ogp.me/ns#"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <![endif]-->
 <!--[if IE 8]>
 <html id="ie8" lang="ru-RU"
 	itemscope 
-	itemtype="http://schema.org/Blog" 
+	itemtype="http://schema.org/Article" 
 	prefix="og: http://ogp.me/ns#"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <![endif]-->
 <!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
 <html lang="ru-RU"
 	itemscope 
-	itemtype="http://schema.org/Blog" 
+	itemtype="http://schema.org/Article" 
 	prefix="og: http://ogp.me/ns#"  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <!--<![endif]-->
 <head> 
@@ -51,7 +53,7 @@ http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
 
 </script>
 <meta charset="utf-8" />
-<title>Главная | Мир позитивных новостей</title>
+<title>Возможно, собаки &#8212; это последние ангелы, которые остались с людьми на земле. | Мир позитивных новостей</title>
 
 <!-- Set the viewport width to device width for mobile -->
 
@@ -62,34 +64,41 @@ http://n-ewsworld.net/esli-chelovek-deystvitelno-chego-to-za/
 
 <link href='http://fonts.googleapis.com/css?family=Abril+Fatface|Source+Sans+Pro:400,900,700|Roboto:900|BenchNine:700|Karla:700|Armata|Raleway:200:300:400:600,700,800,900|Stint+Ultra+Condensed|Merriweather|Arbutus+Slab|Open+Sans+Condensed:700|Archivo+Black|Carrois+Gothic|Patua+One|Questrial|Marvel:400,700|Gudea:400,700,400italic|Bitter:400,700,400italic|Passion+One:400,700|Jockey+One|Quicksand:400,300,700|Terminal+Dosis:400,800,300,600|Sansita+One|Changa+One|Paytone+One|Dorsa|Rochester|Bigshot+One|Open+Sans:300:400:600:700:800|Merienda+One|Six+Caps|Bevan|Oswald:700|Vidaloka|Droid+Sans|Josefin+Sans|Dancing+Script:400,700|Abel|Rokkitt|Droid+Serif&subset=latin,cyrillic' rel='stylesheet' type='text/css'/>
 <!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
-	<meta name="description" content="новости, позитив, цитаты, афоризмы, остроумие, юмор" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Главная" />
-	<meta property="og:description" content="новости, позитив, цитаты, афоризмы, остроумие, юмор" />
-	<meta property="og:url" content="http://n-ewsworld.net/" />
+	<meta property="og:title" content="Возможно, собаки &#8212; это последние ангелы, которые остались с людьми на земле." />
+	<meta property="og:url" content="http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/" />
+	<meta property="og:image" content="http://n-ewsworld.net/wp-content/uploads/image.jpg" />
 	<meta property="article:published_time" content="2015-12-03" />
 	<meta property="article:modified_time" content="2015-12-04" />
+	<meta property="article:author" content="http://n-ewsworld.net/author/admin/" />
+	<meta property="article:section" content="Животные" />
+	<meta property="article:tag" content="животные" />
 	<meta property="og:site_name" content="Мир позитивных новостей" />
 	<meta name="twitter:card" content="summary" />
 <!-- /SEO Ultimate -->
 
 
-<!-- All in One SEO Pack 2.2.7.4 by Michael Torbert of Semper Fi Web Design[1501,1592] -->
-<link rel="canonical" href="http://n-ewsworld.net/" />
-<meta property="og:title" content="http://n-ewsworld.net" />
-<meta property="og:type" content="blog" />
-<meta property="og:url" content="http://n-ewsworld.net/" />
+<!-- All in One SEO Pack 2.2.7.4 by Michael Torbert of Semper Fi Web Design[1513,1689] -->
+<meta name="keywords" itemprop="keywords" content="животные" />
+
+<link rel="canonical" href="http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/" />
+<meta property="og:title" content="Возможно, собаки &#8212; это последние ангелы, которые остались с людьми на земле. | Мир позитивных новостей" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/" />
 <meta property="og:image" content="http://n-ewsworld.net/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
 <meta property="og:site_name" content="Мир позитивных новостей" />
-<meta property="og:description" content="Позитив, цитаты, афоризмы, остроумие, юмор, природа, отдых" />
+<meta property="article:tag" content="животные" />
+<meta property="article:tag" content="Животные" />
+<meta property="article:published_time" content="2015-12-03T21:18:46Z" />
+<meta property="article:modified_time" content="2015-12-04T01:54:26Z" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="http://n-ewsworld.net" />
-<meta name="twitter:description" content="Позитив, цитаты, афоризмы, остроумие, юмор, природа, отдых" />
+<meta name="twitter:title" content="Возможно, собаки &#8212; это последние ангелы, которые остались с людьми на земле. | Мир позитивных новостей" />
 <meta name="twitter:image" content="http://n-ewsworld.net/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
 <meta itemprop="image" content="http://n-ewsworld.net/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
 <!-- /all in one seo pack -->
 <link rel="alternate" type="application/rss+xml" title="Мир позитивных новостей &raquo; Лента" href="http://n-ewsworld.net/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Мир позитивных новостей &raquo; Лента комментариев" href="http://n-ewsworld.net/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Мир позитивных новостей &raquo; Лента комментариев к &laquo;Возможно, собаки &#8212; это последние ангелы, которые остались с людьми на земле.&raquo;" href="http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/n-ewsworld.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -121,8 +130,10 @@ img.emoji {
 <script type='text/javascript' src='http://n-ewsworld.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://n-ewsworld.net/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://n-ewsworld.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Рабочий мотиватор' href='http://n-ewsworld.net/rabochiy-motivator/' />
+<link rel='next' title='Хозяин, возьми меня с собой!' href='http://n-ewsworld.net/hozyain-vozmi-menya-s-soboy/' />
 <meta name="generator" content="WordPress 4.3.1" />
-<link rel='shortlink' href='http://n-ewsworld.net/' />
+<link rel='shortlink' href='http://n-ewsworld.net/?p=74' />
 <script type="text/javascript">
     var GETSOCIAL_ID = "4177ee";
     var GETSOCIAL_LANG = "en";
@@ -179,7 +190,7 @@ body.custom-background { background-color: #ffffff; }
 </head>
 
      
-<body class="home page page-id-4 page-template page-template-homepage page-template-homepage-php logged-in admin-bar no-customize-support custom-background">
+<body class="single single-post postid-74 single-format-standard logged-in admin-bar no-customize-support custom-background">
 
 <div class="container  container_shadow upper"> 
 
@@ -256,8 +267,8 @@ body.custom-background { background-color: #ffffff; }
         
        		<a id="triggernav-sec" href="#">MENU</a>
         
-            <ul id="sec-nav" class="nav custom-nav"><li id="menu-item-7" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-7"><a href="http://n-ewsworld.net/">Главная</a></li>
-<li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73"><a href="http://n-ewsworld.net/category/%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d0%b5/">Животные</a></li>
+            <ul id="sec-nav" class="nav custom-nav"><li id="menu-item-7" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7"><a href="http://n-ewsworld.net/">Главная</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-73"><a href="http://n-ewsworld.net/category/%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d0%b5/">Животные</a></li>
 <li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://n-ewsworld.net/category/mir-vokrug-nas/">Мир вокруг нас</a></li>
 <li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="http://n-ewsworld.net/category/%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%b8%d0%b2/">Позитив</a></li>
 <li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://n-ewsworld.net/category/%d1%80%d0%b5%d1%82%d1%80%d0%be/">Ретро</a></li>
@@ -289,8 +300,8 @@ body.custom-background { background-color: #ffffff; }
           
             <nav id="navigation">
             
-                <ul id="main-nav" class="nav custom-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-7"><a href="http://n-ewsworld.net/">Главная</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73"><a href="http://n-ewsworld.net/category/%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d0%b5/">Животные</a></li>
+                <ul id="main-nav" class="nav custom-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7"><a href="http://n-ewsworld.net/">Главная</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-73"><a href="http://n-ewsworld.net/category/%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d0%b5/">Животные</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://n-ewsworld.net/category/mir-vokrug-nas/">Мир вокруг нас</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="http://n-ewsworld.net/category/%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%b8%d0%b2/">Позитив</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://n-ewsworld.net/category/%d1%80%d0%b5%d1%82%d1%80%d0%be/">Ретро</a></li>
@@ -307,1163 +318,190 @@ body.custom-background { background-color: #ffffff; }
 	<div style="clear: both;"></div>
 <div id="core">
 
-    <div id="content">
-    
-                
-                                    
-                
-           
+<div id="content">
 
-		
-		<div class="slidercol">
-			            <div class="mainflex flexslider">
-                <ul class="slides">
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид" >
-                                 <img width="483" height="500" src="http://n-ewsworld.net/wp-content/uploads/71-483x500.jpg" class="attachment-slider wp-post-image" alt="7" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид">Загадочный ручей &#8212; Болтон Стрид</a></h2>
-                            <p class="meta">Дек 7 &bull; 13 Просмотров &bull; <a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/#respond">Комментариев<span class="screen-reader-text"> к записи Загадочный ручей &#8212; Болтон Стрид</span> нет</a></p>
-                            <p class="teaser">
-								В Английском Йоркшире находится одна из самых опасных ловушек природы. Это небольшой безвредно выглядящий горный поток шириной в несколько...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/zavorazhivayushhaya-priroda-semyorka-novyih-chudes-sveta/" title="Завораживающая природа. Семёрка новых чудес света" >
-                                 <img width="483" height="481" src="http://n-ewsworld.net/wp-content/uploads/41-483x481.jpg" class="attachment-slider wp-post-image" alt="4" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/zavorazhivayushhaya-priroda-semyorka-novyih-chudes-sveta/" title="Завораживающая природа. Семёрка новых чудес света">Завораживающая природа. Семёрка новых чудес света</a></h2>
-                            <p class="meta">Дек 7 &bull; 16 Просмотров &bull; <a href="http://n-ewsworld.net/zavorazhivayushhaya-priroda-semyorka-novyih-chudes-sveta/#respond">Комментариев<span class="screen-reader-text"> к записи Завораживающая природа. Семёрка новых чудес света</span> нет</a></p>
-                            <p class="teaser">
-								Мертвое море, Большой Барьерный риф, Большой каньон, Улуру, Водопад Игуасу и 23 других естественных чуда природы – попробуйте выбрать из них...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/priroda-v-forme-serdtsa/" title="Природа в форме сердца" >
-                                 <img width="483" height="418" src="http://n-ewsworld.net/wp-content/uploads/1_8-483x418.jpg" class="attachment-slider wp-post-image" alt="1_8" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/priroda-v-forme-serdtsa/" title="Природа в форме сердца">Природа в форме сердца</a></h2>
-                            <p class="meta">Дек 7 &bull; 13 Просмотров &bull; <a href="http://n-ewsworld.net/priroda-v-forme-serdtsa/#respond">Комментариев<span class="screen-reader-text"> к записи Природа в форме сердца</span> нет</a></p>
-                            <p class="teaser">
-								Сад, обустроенный в форме сердца, Вальтроп, Германия (SPECIALIST STOCK / BARCROFT MEDIA). Со стороны очень напоминает знаменитые круги на полях, но это...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/25-unikalnyih-hramov-mira/" title="25 уникальных храмов мира" >
-                                 <img width="483" height="449" src="http://n-ewsworld.net/wp-content/uploads/xrami-mira678-483x449.jpg" class="attachment-slider wp-post-image" alt="xrami mira678" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/25-unikalnyih-hramov-mira/" title="25 уникальных храмов мира">25 уникальных храмов мира</a></h2>
-                            <p class="meta">Дек 6 &bull; 50 Просмотров &bull; <a href="http://n-ewsworld.net/25-unikalnyih-hramov-mira/#respond">Комментариев<span class="screen-reader-text"> к записи 25 уникальных храмов мира</span> нет</a></p>
-                            <p class="teaser">
-								Лютеранская церковь в Рейкьявике — четвертое по высоте здание в Исландии. Проект церкви был разработан в 1937 году архитектором Гудйоуном...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                                </ul>
-            </div>
-            <div style="clear: both;"></div>
-            <a class="moreposts" href="http://n-ewsworld.net/category/mir-vokrug-nas/"></a>
-		</div>
-		
-		<div class="seccol">
+<div class="post-74 post type-post status-publish format-standard has-post-thumbnail hentry category-24 tag-25">
 
-					
-            
+
+
+
+<div style="clear: both;"></div>
+
+<div class="entry">
+
+<span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>
+<h2 class="post"><a href="http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/">Возможно, собаки &#8212; это последние ангелы, которые остались с людьми на земле.</a></h2>
+
+<p class="meta">Дек 3 &bull; <a href="http://n-ewsworld.net/category/%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d0%b5/" rel="category tag">Животные</a> &bull; 14933</p>
+
+
+<div style="clear: both;"></div>
+
+
+<div class="hrline"></div> 
+
+<p><a href="http://n-ewsworld.net/wp-content/uploads/image.jpg" rel='prettyPhoto'><img class="alignnone size-full wp-image-75" src="http://n-ewsworld.net/wp-content/uploads/image.jpg" alt="image" width="604" height="453" /></a></p>
+<p><a href="http://n-ewsworld.net/wp-content/uploads/image-1.jpg" rel='prettyPhoto'><img class="alignnone wp-image-76" src="http://n-ewsworld.net/wp-content/uploads/image-1.jpg" alt="image (1)" width="328" height="437" /></a> <a href="http://n-ewsworld.net/wp-content/uploads/image-2.jpg" rel='prettyPhoto'><img class="alignnone wp-image-77" src="http://n-ewsworld.net/wp-content/uploads/image-2.jpg" alt="image (2)" width="327" height="436" /></a> <a href="http://n-ewsworld.net/wp-content/uploads/image-3.jpg" rel='prettyPhoto'><img class="alignnone wp-image-78" src="http://n-ewsworld.net/wp-content/uploads/image-3.jpg" alt="image (3)" width="659" height="494" /></a>
+<div class="getsocial gs-inline-group" ></div>
+
+
+
+<div class="hrline"></div>
+
+
+		<h3 class="additional">Похожие Записи</h3>
+			<ul class="related">	
 				
-            <ul>
-
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки" >
-                         <img width="200" height="130" src="http://n-ewsworld.net/wp-content/uploads/121-200x130.jpg" class="attachment-seccol wp-post-image" alt="12" title="" />                         </a>
-                                            
-                    <p><a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки">Новогодние игрушки </a></p>
-                    
-                    <p class="pnormal">
-                        Дек 7 &bull; 
-                        1 Просмотров &bull; 
-						Наверное, всем знакомо: достаешь пыльную коробку с елочными...<br/>
-                                           	</p> 
-                        
-			</li>
-            
-			            
-            <li>  
-              
-                <p><a href="http://n-ewsworld.net/sovetskoe-detstvo-zima/" title="Советское детство. Зима!">Советское детство. Зима! </a></p>
-                
-                <p class="pnormal"> ...</p> 
-                    
-			</li>
-
-			            
-            <li>  
-              
-                <p><a href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/" title="С Новым Годом! Ретро открытки">С Новым Годом! Ретро открытки </a></p>
-                
-                <p class="pnormal">             Источник...</p> 
-                    
-			</li>
-
-			            
-            <li>  
-              
-                <p><a href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/" title="Красавица зимушка. Рисунки карандашом">Красавица зимушка. Рисунки карандашом </a></p>
-                
-                <p class="pnormal"> Художник Гурам Доленджашвили  ...</p> 
-                    
-			</li>
-
-						</ul>
-
-        
-		<a class="moreposts" href=""></a>
-		</div><div style="clear: both;"></div>
-        
-				
-					
-
-			<h2 class="widget widget-single"><a href="http://n-ewsworld.net/category/mir-vokrug-nas/"></a>
-            </h2>
-			
-			            <div class="widgetflexslider flexslider">
-            <ul class="slides">
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/71-218x240.jpg" class="attachment-carousel wp-post-image" alt="7" title="" />                         </a>
-                    
-					<p class="meta">Дек 7 &bull; 13 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид">Загадочный ручей &#8212; Болтон Стрид</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/zavorazhivayushhaya-priroda-semyorka-novyih-chudes-sveta/" title="Завораживающая природа. Семёрка новых чудес света" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/41-218x240.jpg" class="attachment-carousel wp-post-image" alt="4" title="" />                         </a>
-                    
-					<p class="meta">Дек 7 &bull; 16 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/zavorazhivayushhaya-priroda-semyorka-novyih-chudes-sveta/" title="Завораживающая природа. Семёрка новых чудес света">Завораживающая природа. Семёрка новых чудес света</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/priroda-v-forme-serdtsa/" title="Природа в форме сердца" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/1_8-218x240.jpg" class="attachment-carousel wp-post-image" alt="1_8" title="" />                         </a>
-                    
-					<p class="meta">Дек 7 &bull; 13 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/priroda-v-forme-serdtsa/" title="Природа в форме сердца">Природа в форме сердца</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/25-unikalnyih-hramov-mira/" title="25 уникальных храмов мира" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/xrami-mira678-218x240.jpg" class="attachment-carousel wp-post-image" alt="xrami mira678" title="" />                         </a>
-                    
-					<p class="meta">Дек 6 &bull; 50 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/25-unikalnyih-hramov-mira/" title="25 уникальных храмов мира">25 уникальных храмов мира</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/drevniy-hram-v-skale-petra-iordaniya/" title="Древний храм в скале, Петра, Иордания" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/image-47-218x240.jpg" class="attachment-carousel wp-post-image" alt="image (47)" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 238 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/drevniy-hram-v-skale-petra-iordaniya/" title="Древний храм в скале, Петра, Иордания">Древний храм в скале, Петра, Иордания</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/litszyan-odna-iz-samyih-krasivyih-i-zhivopisnyih-rek-kitaya/" title="Лицзян — одна из самых красивых и живописных рек Китая" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/12-218x240.jpg" class="attachment-carousel wp-post-image" alt="1" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 90 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/litszyan-odna-iz-samyih-krasivyih-i-zhivopisnyih-rek-kitaya/" title="Лицзян — одна из самых красивых и живописных рек Китая">Лицзян — одна из самых красивых и живописных рек Китая</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/iz-za-zasuhi-silno-obmelela-volga-i-na-poverhnost-vyishel-zatoplennyiy-v-1940-godu-pri-stroitelstve-ges-gorod-mologa/" title="Из-за засухи сильно обмелела Волга, и на поверхность вышел затопленный в 1940 году при строительстве ГЭС город Молога!" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/image-16-218x240.jpg" class="attachment-carousel wp-post-image" alt="image (16)" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 390 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/iz-za-zasuhi-silno-obmelela-volga-i-na-poverhnost-vyishel-zatoplennyiy-v-1940-godu-pri-stroitelstve-ges-gorod-mologa/" title="Из-за засухи сильно обмелела Волга, и на поверхность вышел затопленный в 1940 году при строительстве ГЭС город Молога!">Из-за засухи сильно обмелела Волга, и на поверхность вышел затопленный в 1940 году при строительстве...</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/potryasayushhie-fotografii-norvezhskoy-p/" title="Потрясающие фотографии норвежской природы" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/terraoko-Ole-Henrik-Skjelstad2015-06-3-218x240.jpg" class="attachment-carousel wp-post-image" alt="http://n-ewsworld.net" title="" />                         </a>
-                    
-					<p class="meta">Дек 3 &bull; 88 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/potryasayushhie-fotografii-norvezhskoy-p/" title="Потрясающие фотографии норвежской природы">Потрясающие фотографии норвежской природы</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/zahvatyivayushhie-fotografii-samyih-kras/" title="Захватывающие фотографии самых красивых мест в Канаде" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/Hw6faoQ4acE-218x240.jpg" class="attachment-carousel wp-post-image" alt="http://n-ewsworld.net" title="" />                         </a>
-                    
-					<p class="meta">Дек 3 &bull; 51 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/zahvatyivayushhie-fotografii-samyih-kras/" title="Захватывающие фотографии самых красивых мест в Канаде">Захватывающие фотографии самых красивых мест в Канаде</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/kanon-nidzhyan-tibet-zahvatyivaet-duh/" title="Каньон Ниджьян, Тибет. Захватывает дух" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/nbf7j3fhvn8-218x240.jpg" class="attachment-carousel wp-post-image" alt="nbf7j3fhvn8" title="" />                         </a>
-                    
-					<p class="meta">Дек 3 &bull; 32 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/kanon-nidzhyan-tibet-zahvatyivaet-duh/" title="Каньон Ниджьян, Тибет. Захватывает дух">Каньон Ниджьян, Тибет. Захватывает дух</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/podvodnyiy-mir-silfra-islandiya/" title="Подводный мир Сильфра, Исландия" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/19329-218x240.jpg" class="attachment-carousel wp-post-image" alt="19329" title="" />                         </a>
-                    
-					<p class="meta">Дек 3 &bull; 64 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/podvodnyiy-mir-silfra-islandiya/" title="Подводный мир Сильфра, Исландия">Подводный мир Сильфра, Исландия</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-						</ul>
-            </div>
-
-		
-				
-		
-			<h2 class="widget inn"><a href="">Популярное</a>
-            <span class="fr"><a class="moreposts" href="">Популярное</a></span></h2>
-			
-				
-                     
-            <div class="tab-container">
-  
+			            <li><span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                        
 				                
-  						<div id="tabbs-600" class="tabitem">
-
-								                                                            
-    
-                        
-									                                         <a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки" >
-                                         <img width="704" height="400" src="http://n-ewsworld.net/wp-content/uploads/121-704x400.jpg" class="attachment-videotabs wp-post-image" alt="12" title="" />                                         </a>
-                                                                        
-                                 
-                                <div style="clear: both;"></div>
-                                <h2 ><a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки">Новогодние игрушки</a></h2>
-
-  						</div>
-
-				  
-                        <div class='tab'>
-                            <a href="http://n-ewsworld.net/sovetskoe-detstvo-zima/">
-                                                                    <img width="148" height="90" src="http://n-ewsworld.net/wp-content/uploads/fullsize-148x90.jpg" class="attachment-videotabs-small wp-post-image" alt="fullsize" title="" />                                                                <div style="clear: both;"></div>
-                                <span class="moreposts">Советское детство. Зима!</span>
-                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span> 
-                            </a>
-                        </div>
-				
-                  
-                        <div class='tab'>
-                            <a href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/">
-                                                                    <img width="148" height="90" src="http://n-ewsworld.net/wp-content/uploads/photo16-148x90.jpg" class="attachment-videotabs-small wp-post-image" alt="photo16" title="" />                                                                <div style="clear: both;"></div>
-                                <span class="moreposts">С Новым Годом! Ретро открытки</span>
-                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span> 
-                            </a>
-                        </div>
-				
-                  
-                        <div class='tab'>
-                            <a href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/">
-                                                                    <img width="148" height="90" src="http://n-ewsworld.net/wp-content/uploads/Guram-Dolendzhashvili.-Lunnyie-nochi-Imeretii.-Variant-2-Karandash-148x90.jpg" class="attachment-videotabs-small wp-post-image" alt="Guram-Dolendzhashvili.-Lunnyie-nochi-Imeretii.-Variant-2-Karandash" title="" />                                                                <div style="clear: both;"></div>
-                                <span class="moreposts">Красавица зимушка. Рисунки карандашом</span>
-                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span> 
-                            </a>
-                        </div>
-				
-                  
-                        <div class='tab'>
-                            <a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/">
-                                                                    <img width="148" height="90" src="http://n-ewsworld.net/wp-content/uploads/71-148x90.jpg" class="attachment-videotabs-small wp-post-image" alt="7" title="" />                                                                <div style="clear: both;"></div>
-                                <span class="moreposts">Загадочный ручей &#8212; Болтон Стрид</span>
-                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span> 
-                            </a>
-                        </div>
-				
+                     <a href="http://n-ewsworld.net/u-hudozhnikov-inoe-ne-dostupnoe-drugim-vospriyatie-mira/" title="У художников иное, не доступное другим восприятие мира" >
+                     
+                            <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/7_0_prichudlivye-218x240.jpg" class="attachment-carousel wp-post-image" alt="7_0_prichudlivye" title="" />                            
+                     </a>
+                     
                                 
-			</div><!-- end .tab-container -->
+					<p class="meta">Дек 7 &bull; 99 Просмотров</p>
+                    <p><a class="title" href="http://n-ewsworld.net/u-hudozhnikov-inoe-ne-dostupnoe-drugim-vospriyatie-mira/" title="У художников иное, не доступное другим восприятие мира">У художников иное, не доступное другим восприятие мира</a></p>
 
-
-		
-		
-
-		
-		<div class="slidercol">
-			            <div class="mainflex flexslider">
-                <ul class="slides">
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/velichestvennyie-hraniteli-lesa/" title="Величественные хранители леса" >
-                                 <img width="483" height="402" src="http://n-ewsworld.net/wp-content/uploads/image-152-483x402.jpg" class="attachment-slider wp-post-image" alt="image (15)" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/velichestvennyie-hraniteli-lesa/" title="Величественные хранители леса">Величественные хранители леса</a></h2>
-                            <p class="meta">Дек 6 &bull; 41 Просмотров &bull; <a href="http://n-ewsworld.net/velichestvennyie-hraniteli-lesa/#respond">Комментариев<span class="screen-reader-text"> к записи Величественные хранители леса</span> нет</a></p>
-                            <p class="teaser">
-								Источник...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/znakomtes-enot-po-klichke-tyikovka-on-vyiros-sredi-sobak-i-schitaet-sebya-odnim-iz-nih/" title="Знакомьтесь. Енот по кличке Тыковка. Он вырос среди собак и считает себя одним из них." >
-                                 <img width="483" height="480" src="http://n-ewsworld.net/wp-content/uploads/image-102-483x480.jpg" class="attachment-slider wp-post-image" alt="image (10)" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/znakomtes-enot-po-klichke-tyikovka-on-vyiros-sredi-sobak-i-schitaet-sebya-odnim-iz-nih/" title="Знакомьтесь. Енот по кличке Тыковка. Он вырос среди собак и считает себя одним из них.">Знакомьтесь. Енот по кличке Тыковка. Он вырос среди собак и считает себя одним...</a></h2>
-                            <p class="meta">Дек 6 &bull; 73 Просмотров &bull; <a href="http://n-ewsworld.net/znakomtes-enot-po-klichke-tyikovka-on-vyiros-sredi-sobak-i-schitaet-sebya-odnim-iz-nih/#respond">Комментариев<span class="screen-reader-text"> к записи Знакомьтесь. Енот по кличке Тыковка. Он вырос среди собак и считает себя одним из них.</span> нет</a></p>
-                            <p class="teaser">
-								Источник...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/eti-milyie-sobaki-ochen-gordyatsya-svoim-chudesnyim-potomstvom/" title="Эти милые собаки очень гордятся своим чудесным потомством!" >
-                                 <img width="483" height="500" src="http://n-ewsworld.net/wp-content/uploads/image-483x500.png" class="attachment-slider wp-post-image" alt="image" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/eti-milyie-sobaki-ochen-gordyatsya-svoim-chudesnyim-potomstvom/" title="Эти милые собаки очень гордятся своим чудесным потомством!">Эти милые собаки очень гордятся своим чудесным потомством!</a></h2>
-                            <p class="meta">Дек 6 &bull; 34 Просмотров &bull; <a href="http://n-ewsworld.net/eti-milyie-sobaki-ochen-gordyatsya-svoim-chudesnyim-potomstvom/#respond">Комментариев<span class="screen-reader-text"> к записи Эти милые собаки очень гордятся своим чудесным потомством!</span> нет</a></p>
-                            <p class="teaser">
-								Источник...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/tolko-lyubiteli-koshek-znayut-chto-takoe-vsegda-teplaya-roskoshnaya-mehovaya-grelka/" title="Только любители кошек знают, что такое всегда теплая, роскошная, меховая грелка" >
-                                 <img width="483" height="480" src="http://n-ewsworld.net/wp-content/uploads/image-181-483x480.jpg" class="attachment-slider wp-post-image" alt="image (18)" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/tolko-lyubiteli-koshek-znayut-chto-takoe-vsegda-teplaya-roskoshnaya-mehovaya-grelka/" title="Только любители кошек знают, что такое всегда теплая, роскошная, меховая грелка">Только любители кошек знают, что такое всегда теплая, роскошная, меховая грелка</a></h2>
-                            <p class="meta">Дек 6 &bull; 73 Просмотров &bull; <a href="http://n-ewsworld.net/tolko-lyubiteli-koshek-znayut-chto-takoe-vsegda-teplaya-roskoshnaya-mehovaya-grelka/#respond">Комментариев<span class="screen-reader-text"> к записи Только любители кошек знают, что такое всегда теплая, роскошная, меховая грелка</span> нет</a></p>
-                            <p class="teaser">
-								Главное поймать момент Источник...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                                </ul>
-            </div>
-            <div style="clear: both;"></div>
-            <a class="moreposts" href="http://n-ewsworld.net/category/%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d0%b5/">Recent Posts</a>
-		</div>
-		
-		<div class="seccol">
-
-					
-            
-				
-            <ul>
-
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки" >
-                         <img width="200" height="130" src="http://n-ewsworld.net/wp-content/uploads/121-200x130.jpg" class="attachment-seccol wp-post-image" alt="12" title="" />                         </a>
-                                            
-                    <p><a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки">Новогодние игрушки </a></p>
-                    
-                    <p class="pnormal">
-                        Дек 7 &bull; 
-                        1 Просмотров &bull; 
-						Наверное, всем знакомо: достаешь пыльную коробку с елочными...<br/>
-                                           	</p> 
-                        
 			</li>
-            
-			            
-            <li>  
-              
-                <p><a href="http://n-ewsworld.net/sovetskoe-detstvo-zima/" title="Советское детство. Зима!">Советское детство. Зима! </a></p>
-                
-                <p class="pnormal"> ...</p> 
-                    
-			</li>
-
-			            
-            <li>  
-              
-                <p><a href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/" title="С Новым Годом! Ретро открытки">С Новым Годом! Ретро открытки </a></p>
-                
-                <p class="pnormal">             Источник...</p> 
-                    
-			</li>
-
-			            
-            <li>  
-              
-                <p><a href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/" title="Красавица зимушка. Рисунки карандашом">Красавица зимушка. Рисунки карандашом </a></p>
-                
-                <p class="pnormal"> Художник Гурам Доленджашвили  ...</p> 
-                    
-			</li>
-
-						</ul>
-
-        
-		<a class="moreposts" href=""></a>
-		</div><div style="clear: both;"></div>
-        
-				
-					
-
-			<h2 class="widget widget-single"><a href="http://n-ewsworld.net/category/%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%b8%d0%b2/"></a>
-            </h2>
-			
-			            <div class="widgetflexslider flexslider">
-            <ul class="slides">
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/dorozhe-roditeley-nikogo-net-i-nikogda-ne-budet/" title="Дороже родителей &#8212; никого нет и никогда не будет" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/aa-218x240.jpg" class="attachment-carousel wp-post-image" alt="аа" title="" />                         </a>
-                    
-					<p class="meta">Дек 6 &bull; 43 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/dorozhe-roditeley-nikogo-net-i-nikogda-ne-budet/" title="Дороже родителей &#8212; никого нет и никогда не будет">Дороже родителей &#8212; никого нет и никогда не будет</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/otkryitki-kotoryie-mozhno-otpravit-vragu-i-oblegchit-dushu/" title="Открытки, которые можно отправить врагу и облегчить душу" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/otkrytki-dlya-vragov_1-218x240.jpg" class="attachment-carousel wp-post-image" alt="otkrytki-dlya-vragov_1" title="" />                         </a>
-                    
-					<p class="meta">Дек 6 &bull; 69 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/otkryitki-kotoryie-mozhno-otpravit-vragu-i-oblegchit-dushu/" title="Открытки, которые можно отправить врагу и облегчить душу">Открытки, которые можно отправить врагу и облегчить душу</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/udivi-pechen-vyipey-vodyi/" title="Удиви печень &#8212; выпей воды!" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/image-77-218x240.jpg" class="attachment-carousel wp-post-image" alt="image (77)" title="" />                         </a>
-                    
-					<p class="meta">Дек 6 &bull; 76 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/udivi-pechen-vyipey-vodyi/" title="Удиви печень &#8212; выпей воды!">Удиви печень &#8212; выпей воды!</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/amerikanskiy-spisok-samyih-strannyih-po-ih-mneniyu-russkih-obyichaev/" title="Американский список самых странных, по их мнению, русских обычаев" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/3Z-j1PgVz1g-218x240.jpg" class="attachment-carousel wp-post-image" alt="3Z-j1PgVz1g" title="" />                         </a>
-                    
-					<p class="meta">Дек 5 &bull; 763 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/amerikanskiy-spisok-samyih-strannyih-po-ih-mneniyu-russkih-obyichaev/" title="Американский список самых странных, по их мнению, русских обычаев">Американский список самых странных, по их мнению, русских обычаев</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/ekonomiya-eto-kogda-shtopaesh-noski-nitkami-ot-chaynyih-paketikov/" title="Экономия &#8212; это когда штопаешь носки нитками от чайных пакетиков" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/hq-wallpapers_ru_abstraction3d_58285_1920x1200-kopiya-218x240.jpg" class="attachment-carousel wp-post-image" alt="hq-wallpapers_ru_abstraction3d_58285_1920x1200 - копия" title="" />                         </a>
-                    
-					<p class="meta">Дек 5 &bull; 67 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/ekonomiya-eto-kogda-shtopaesh-noski-nitkami-ot-chaynyih-paketikov/" title="Экономия &#8212; это когда штопаешь носки нитками от чайных пакетиков">Экономия &#8212; это когда штопаешь носки нитками от чайных пакетиков</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/lish-tot-kogo-nevozmozhno-dobit-dobyotsya-uspeha/" title="Лишь тот, кого невозможно добить, добьётся успеха!" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/image-35-218x240.jpg" class="attachment-carousel wp-post-image" alt="image (35)" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 69 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/lish-tot-kogo-nevozmozhno-dobit-dobyotsya-uspeha/" title="Лишь тот, кого невозможно добить, добьётся успеха!">Лишь тот, кого невозможно добить, добьётся успеха!</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/za-kazhdyiy-den-spasibo-bogu/" title="За каждый день спасибо Богу" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/77-218x240.jpg" class="attachment-carousel wp-post-image" alt="77" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 54 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/za-kazhdyiy-den-spasibo-bogu/" title="За каждый день спасибо Богу">За каждый день спасибо Богу</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/ne-vse-poymut/" title="Не все поймут!" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/991-218x240.jpg" class="attachment-carousel wp-post-image" alt="99" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 36 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/ne-vse-poymut/" title="Не все поймут!">Не все поймут!</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/ne-zaviduy-i-ne-zlis/" title="Не завидуй и не злись" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/image-21-218x240.jpg" class="attachment-carousel wp-post-image" alt="image (21)" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 68 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/ne-zaviduy-i-ne-zlis/" title="Не завидуй и не злись">Не завидуй и не злись</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/idyot-zhenshhina-nochyu/" title="Идёт женщина ночью" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/ayi-218x240.jpg" class="attachment-carousel wp-post-image" alt="аы" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 26 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/idyot-zhenshhina-nochyu/" title="Идёт женщина ночью">Идёт женщина ночью</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/mne-kazhetsya/" title="Мне кажется&#8230;" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/3v-218x240.jpg" class="attachment-carousel wp-post-image" alt="3в" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 27 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/mne-kazhetsya/" title="Мне кажется&#8230;">Мне кажется&#8230;</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-			
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/hitraya-sobaka/" title="Хитрая собака" >
-                         <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/55-218x240.jpg" class="attachment-carousel wp-post-image" alt="55" title="" />                         </a>
-                    
-					<p class="meta">Дек 4 &bull; 23 Просмотров</p>
-                    <p><a class="title" href="http://n-ewsworld.net/hitraya-sobaka/" title="Хитрая собака">Хитрая собака</a></p>
-                    
-                    <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                       
-			</li>
-
-						</ul>
-            </div>
-
-		
-					<div class="textwidget"><iframe width="620" height="315" src="https://www.youtube.com/embed/uJS6i0k4Ic4" frameborder="0" allowfullscreen></iframe></div>
-		
-
-		
-		<div class="slidercol">
-			            <div class="mainflex flexslider">
-                <ul class="slides">
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/" title="Красавица зимушка. Рисунки карандашом" >
-                                 <img width="483" height="500" src="http://n-ewsworld.net/wp-content/uploads/Guram-Dolendzhashvili.-Lunnyie-nochi-Imeretii.-Variant-2-Karandash-483x500.jpg" class="attachment-slider wp-post-image" alt="Guram-Dolendzhashvili.-Lunnyie-nochi-Imeretii.-Variant-2-Karandash" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/" title="Красавица зимушка. Рисунки карандашом">Красавица зимушка. Рисунки карандашом</a></h2>
-                            <p class="meta">Дек 7 &bull; 16 Просмотров &bull; <a href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/#respond">Комментариев<span class="screen-reader-text"> к записи Красавица зимушка. Рисунки карандашом</span> нет</a></p>
-                            <p class="teaser">
-								Художник Гурам Доленджашвили  ...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/u-hudozhnikov-inoe-ne-dostupnoe-drugim-vospriyatie-mira/" title="У художников иное, не доступное другим восприятие мира" >
-                                 <img width="483" height="500" src="http://n-ewsworld.net/wp-content/uploads/7_0_prichudlivye-483x500.jpg" class="attachment-slider wp-post-image" alt="7_0_prichudlivye" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/u-hudozhnikov-inoe-ne-dostupnoe-drugim-vospriyatie-mira/" title="У художников иное, не доступное другим восприятие мира">У художников иное, не доступное другим восприятие мира</a></h2>
-                            <p class="meta">Дек 7 &bull; 99 Просмотров &bull; <a href="http://n-ewsworld.net/u-hudozhnikov-inoe-ne-dostupnoe-drugim-vospriyatie-mira/#respond">Комментариев<span class="screen-reader-text"> к записи У художников иное, не доступное другим восприятие мира</span> нет</a></p>
-                            <p class="teaser">
-								Нидерландский художник Редмер Хукстра (Redmer Hoekstra) создаёт увлекательные композиционные иллюстрации, при помощи сочетания животных,...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/udivitelnyie-3d-risunki-karandashom/" title="Удивительные 3D рисунки карандашом" >
-                                 <img width="483" height="500" src="http://n-ewsworld.net/wp-content/uploads/c1005546d2b25e0d9aa957f9d5b9ea46_L-483x500.jpg" class="attachment-slider wp-post-image" alt="c1005546d2b25e0d9aa957f9d5b9ea46_L" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/udivitelnyie-3d-risunki-karandashom/" title="Удивительные 3D рисунки карандашом">Удивительные 3D рисунки карандашом</a></h2>
-                            <p class="meta">Дек 7 &bull; 56 Просмотров &bull; <a href="http://n-ewsworld.net/udivitelnyie-3d-risunki-karandashom/#respond">Комментариев<span class="screen-reader-text"> к записи Удивительные 3D рисунки карандашом</span> нет</a></p>
-                            <p class="teaser">
-								Профессиональные художники умеют создавать максимально детализированные рисунки. Но при достижении истинного мастерства в...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                    
-                    <li>
-                            
-                                                             <a href="http://n-ewsworld.net/chudesnyie-kartinyi-slepogo-hudozhnika/" title="Чудесные картины слепого художника" >
-                                 <img width="483" height="500" src="http://n-ewsworld.net/wp-content/uploads/slepoy-hudozhnik-John-Bramblitt_9-483x500.jpg" class="attachment-slider wp-post-image" alt="slepoy-hudozhnik-John-Bramblitt_9" title="" />                                 </a>
-                                                            
-                            <h2 class="upperfont"><a href="http://n-ewsworld.net/chudesnyie-kartinyi-slepogo-hudozhnika/" title="Чудесные картины слепого художника">Чудесные картины слепого художника</a></h2>
-                            <p class="meta">Дек 7 &bull; 37 Просмотров &bull; <a href="http://n-ewsworld.net/chudesnyie-kartinyi-slepogo-hudozhnika/#respond">Комментариев<span class="screen-reader-text"> к записи Чудесные картины слепого художника</span> нет</a></p>
-                            <p class="teaser">
-								В 2001 году Джон Брамблитт (John Bramblitt), страдающий эпилепсией, потерял зрение. С тех пор его глаза могут различать лишь свет и тьму. Но, несмотря на...                                <span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                            </p> 
-                                
-                    </li>
-                    
-                                </ul>
-            </div>
-            <div style="clear: both;"></div>
-            <a class="moreposts" href="http://n-ewsworld.net/category/iskusstvo/"></a>
-		</div>
-		
-		<div class="seccol">
-
-					
-            
-				
-            <ul>
-
-			<li>
-                    
-					                         <a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки" >
-                         <img width="200" height="130" src="http://n-ewsworld.net/wp-content/uploads/121-200x130.jpg" class="attachment-seccol wp-post-image" alt="12" title="" />                         </a>
-                                            
-                    <p><a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки">Новогодние игрушки </a></p>
-                    
-                    <p class="pnormal">
-                        Дек 7 &bull; 
-                        1 Просмотров &bull; 
-						Наверное, всем знакомо: достаешь пыльную коробку с елочными...<br/>
-                                           	</p> 
-                        
-			</li>
-            
-			            
-            <li>  
-              
-                <p><a href="http://n-ewsworld.net/sovetskoe-detstvo-zima/" title="Советское детство. Зима!">Советское детство. Зима! </a></p>
-                
-                <p class="pnormal"> ...</p> 
-                    
-			</li>
-
-			            
-            <li>  
-              
-                <p><a href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/" title="С Новым Годом! Ретро открытки">С Новым Годом! Ретро открытки </a></p>
-                
-                <p class="pnormal">             Источник...</p> 
-                    
-			</li>
-
-			            
-            <li>  
-              
-                <p><a href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/" title="Красавица зимушка. Рисунки карандашом">Красавица зимушка. Рисунки карандашом </a></p>
-                
-                <p class="pnormal"> Художник Гурам Доленджашвили  ...</p> 
-                    
-			</li>
-
-						</ul>
-
-        
-		<a class="moreposts" href=""></a>
-		</div><div style="clear: both;"></div>
-        
-				
-		
-
-		
-		<div class="widgetcol">
-        
-			<h2 class="widget widget-single"><a href="http://n-ewsworld.net/category/%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%b8%d0%b2/"></a>
-            <span class="fr"><a class="moreposts" href="http://n-ewsworld.net/category/%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%b8%d0%b2/"></a></span>
-            </h2>
-			
-						            
-			<div class="widgetcol_big">
-            
+			            <li><span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                        
 				                
-                            
-                                        
-                         <a href="http://n-ewsworld.net/dorozhe-roditeley-nikogo-net-i-nikogda-ne-budet/" title="Дороже родителей &#8212; никого нет и никогда не будет" >
-                         
-                            <img width="332" height="220" src="http://n-ewsworld.net/wp-content/uploads/aa-332x220.jpg" class="attachment-widgetcol wp-post-image" alt="аа" title="" />                            
-                         </a>
-                         
-                                        
-                 
-                
-				<h2 class="upperfont"><a href='http://n-ewsworld.net/dorozhe-roditeley-nikogo-net-i-nikogda-ne-budet/' title='Дороже родителей &#8212; никого нет и никогда не будет'>Дороже родителей &#8212; никого нет и никогда не будет</a></h2>
-
-				<p class="meta">Дек 6 &bull; 43 Просмотров &bull; <a href="http://n-ewsworld.net/dorozhe-roditeley-nikogo-net-i-nikogda-ne-budet/#respond">Комментариев<span class="screen-reader-text"> к записи Дороже родителей &#8212; никого нет и никогда не будет</span> нет</a></p>
-
-				<p class="teaser">
-					...                	<span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                                    </p>
-                
-			</div>
-            
-			            
-			<div class="widgetcol_small">
-
-            	                
-                     <a href="http://n-ewsworld.net/otkryitki-kotoryie-mozhno-otpravit-vragu-i-oblegchit-dushu/" title="Открытки, которые можно отправить врагу и облегчить душу" >
+                     <a href="http://n-ewsworld.net/sobaki-kotoryie-ne-ponimayut-chto-oni-ogromnyi/" title="Собаки, которые не понимают что они огромны" >
                      
-                     	<img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/otkrytki-dlya-vragov_1-55x55.jpg" class="attachment-tabs wp-post-image" alt="otkrytki-dlya-vragov_1" title="" />                     
+                            <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/image-64-218x240.jpg" class="attachment-carousel wp-post-image" alt="image (64)" title="" />                            
                      </a>
                      
-                
-				<p><a href='http://n-ewsworld.net/otkryitki-kotoryie-mozhno-otpravit-vragu-i-oblegchit-dushu/' title='Открытки, которые можно отправить врагу и облегчить душу'>Открытки, которые можно отправить врагу и облегчить душу</a></p>
-                
-                <p class="pnormal">Источник...</p> 
-                
-				<p class="meta">Дек 6 &bull; 69 Просмотров</p>
-                
                                 
-			</div>
-            
-			            
-			<div class="widgetcol_small">
+					<p class="meta">Дек 5 &bull; 521 Просмотров</p>
+                    <p><a class="title" href="http://n-ewsworld.net/sobaki-kotoryie-ne-ponimayut-chto-oni-ogromnyi/" title="Собаки, которые не понимают что они огромны">Собаки, которые не понимают что они огромны</a></p>
 
-            	                
-                     <a href="http://n-ewsworld.net/udivi-pechen-vyipey-vodyi/" title="Удиви печень &#8212; выпей воды!" >
-                     
-                     	<img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/image-77-55x55.jpg" class="attachment-tabs wp-post-image" alt="image (77)" title="" />                     
-                     </a>
-                     
-                
-				<p><a href='http://n-ewsworld.net/udivi-pechen-vyipey-vodyi/' title='Удиви печень &#8212; выпей воды!'>Удиви печень &#8212; выпей воды!</a></p>
-                
-                <p class="pnormal">...</p> 
-                
-				<p class="meta">Дек 6 &bull; 76 Просмотров</p>
-                
-                                
-			</div>
-            
-			            
-			<div class="widgetcol_small">
-
-            	                
-                     <a href="http://n-ewsworld.net/amerikanskiy-spisok-samyih-strannyih-po-ih-mneniyu-russkih-obyichaev/" title="Американский список самых странных, по их мнению, русских обычаев" >
-                     
-                     	<img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/3Z-j1PgVz1g-55x55.jpg" class="attachment-tabs wp-post-image" alt="3Z-j1PgVz1g" title="" />                     
-                     </a>
-                     
-                
-				<p><a href='http://n-ewsworld.net/amerikanskiy-spisok-samyih-strannyih-po-ih-mneniyu-russkih-obyichaev/' title='Американский список самых странных, по их мнению, русских обычаев'>Американский список самых странных, по их мнению, русских обычаев</a></p>
-                
-                <p class="pnormal">В размещенной на популярном американском сайте Buzzfeed статье приводится...</p> 
-                
-				<p class="meta">Дек 5 &bull; 763 Просмотров</p>
-                
-                                
-			</div>
-            
-						
-		</div>
-		
-				
-		<div class="widgetcol last">
-        
-			<h2 class="widget widget-single"><a href="http://n-ewsworld.net/category/tsitatyi-i-aforizmyi/"></a>
-            <span class="fr"><a class="moreposts" href="http://n-ewsworld.net/category/tsitatyi-i-aforizmyi/"></a></span>
-            </h2>
-
-						
-			            
-			<div class="widgetcol_big">
-
+			</li>
+			            <li><span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                        
 				                
-                            
-                                        
-                         <a href="http://n-ewsworld.net/beregite-v-sebe-cheloveka/" title="Берегите в себе человека" >
-                         
-                            <img width="332" height="220" src="http://n-ewsworld.net/wp-content/uploads/zagruzheno-54-332x220.jpg" class="attachment-widgetcol wp-post-image" alt="zagruzheno-54" title="" />                            
-                         </a>
-                         
-                                        
-                 
-                
-				<h2 class="upperfont"><a href='http://n-ewsworld.net/beregite-v-sebe-cheloveka/' title='Берегите в себе человека'>Берегите в себе человека</a></h2>
-
-				<p class="meta">Дек 7 &bull; 6 Просмотров &bull; <a href="http://n-ewsworld.net/beregite-v-sebe-cheloveka/#respond">Комментариев<span class="screen-reader-text"> к записи Берегите в себе человека</span> нет</a></p>
-
-				<p class="teaser">
-					<span class="ribbon"><span class="ribbon_icon"><i class="icon-file-alt"></i></span></span>                    ...                                    </p>
-                
-			</div>
-            
-						            
-			<div class="widgetcol_small">
-            
-            	                
-                     <a href="http://n-ewsworld.net/faina-ranevskaya-o-zhizni/" title="Фаина Раневская о жизни" >
+                     <a href="http://n-ewsworld.net/udivitelnyie-podvodnyie-sobaki/" title="Удивительные подводные собаки" >
                      
-                     	<img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/preview-650x390-650-1432044406-55x55.jpg" class="attachment-tabs wp-post-image" alt="preview-650x390-650-1432044406" title="" />                     
+                            <img width="218" height="240" src="http://n-ewsworld.net/wp-content/uploads/image-49-218x240.jpg" class="attachment-carousel wp-post-image" alt="image (49)" title="" />                            
                      </a>
                      
-                
-				<p><a href='http://n-ewsworld.net/faina-ranevskaya-o-zhizni/' title='Фаина Раневская о жизни'>Фаина Раневская о жизни</a></p>
-                
-                <p class="pnormal">...</p> 
-                
-				<p class="meta">Дек 7 &bull; 38 Просмотров</p>
-                                    
-			</div>
-						            
-			<div class="widgetcol_small">
-            
-            	                
-                     <a href="http://n-ewsworld.net/hren-polozhennyiy-na-mnenie-okruzhayushhih-obespechivaet-spokoynuyu-i-schastlivuyu-zhizn/" title="Хрен, положенный на мнение окружающих, обеспечивает спокойную и счастливую жизнь" >
-                     
-                     	<img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/senseless1_44212589_orig_-55x55.jpeg" class="attachment-tabs wp-post-image" alt="senseless1_44212589_orig_" title="" />                     
-                     </a>
-                     
-                
-				<p><a href='http://n-ewsworld.net/hren-polozhennyiy-na-mnenie-okruzhayushhih-obespechivaet-spokoynuyu-i-schastlivuyu-zhizn/' title='Хрен, положенный на мнение окружающих, обеспечивает спокойную и счастливую жизнь'>Хрен, положенный на мнение окружающих, обеспечивает спокойную и счастливую жизнь</a></p>
-                
-                <p class="pnormal">Фаина Раневская...</p> 
-                
-				<p class="meta">Дек 7 &bull; 14 Просмотров</p>
-                                    
-			</div>
-						            
-			<div class="widgetcol_small">
-            
-            	                
-                     <a href="http://n-ewsworld.net/mat-tereza-o-lyubvi/" title="Мать Тереза о любви" >
-                     
-                     	<img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/zapovedi-materi-terezyi-9-55x55.jpg" class="attachment-tabs wp-post-image" alt="заповеди-матери-терезы-9" title="" />                     
-                     </a>
-                     
-                
-				<p><a href='http://n-ewsworld.net/mat-tereza-o-lyubvi/' title='Мать Тереза о любви'>Мать Тереза о любви</a></p>
-                
-                <p class="pnormal">...</p> 
-                
-				<p class="meta">Дек 7 &bull; 28 Просмотров</p>
-                                    
-			</div>
-									
-		</div><div style="clear: both;"></div>
-        
-		           
-    </div><!-- #homecontent -->
-    
-    
-    
-    <div id="sidebar">
-           		        		<div id="hometab">
+                                
+					<p class="meta">Дек 4 &bull; 295 Просмотров</p>
+                    <p><a class="title" href="http://n-ewsworld.net/udivitelnyie-podvodnyie-sobaki/" title="Удивительные подводные собаки">Удивительные подводные собаки</a></p>
 
-<ul id="serinfo-nav">
+			</li>
+						</ul>
+			<div style="clear: both;"></div>
 
-        <li class="li01"><a href="#serpane0">Новое</a></li>
-        <li class="li02"><a href="#serpane1">Попул.</a></li>
-        <li class="li03"><a href="#serpane2">Случай.</a></li>
-        <li class="li04"><a href="#serpane3">Тэги</a></li>
-
-</ul>
-
-<ul id="serinfo">
-
-  		<li id="serpane0">	
-        		
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/121-55x55.jpg" class="attachment-tabs wp-post-image" alt="12" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/novogodnie-igrushki/">Новогодние игрушки</a></p>
-        
-        <p class="meta">Дек 7 &bull; 1 Просмотров</p>
-        
-</div>            	
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/sovetskoe-detstvo-zima/" title="Советское детство. Зима!" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/fullsize-55x55.jpg" class="attachment-tabs wp-post-image" alt="fullsize" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/sovetskoe-detstvo-zima/">Советское детство. Зима!</a></p>
-        
-        <p class="meta">Дек 7 &bull; 11 Просмотров</p>
-        
-</div>            	
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/" title="С Новым Годом! Ретро открытки" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/photo16-55x55.jpg" class="attachment-tabs wp-post-image" alt="photo16" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/">С Новым Годом! Ретро открытки</a></p>
-        
-        <p class="meta">Дек 7 &bull; 18 Просмотров</p>
-        
-</div>            	
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/" title="Красавица зимушка. Рисунки карандашом" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/Guram-Dolendzhashvili.-Lunnyie-nochi-Imeretii.-Variant-2-Karandash-55x55.jpg" class="attachment-tabs wp-post-image" alt="Guram-Dolendzhashvili.-Lunnyie-nochi-Imeretii.-Variant-2-Karandash" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/">Красавица зимушка. Рисунки карандашом</a></p>
-        
-        <p class="meta">Дек 7 &bull; 16 Просмотров</p>
-        
-</div>            	
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/71-55x55.jpg" class="attachment-tabs wp-post-image" alt="7" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/">Загадочный ручей &#8212; Болтон Стрид</a></p>
-        
-        <p class="meta">Дек 7 &bull; 13 Просмотров</p>
-        
-</div>            	  		</li>
-
-
-  		<li id="serpane1">
-						        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/novogodnie-igrushki/" title="Новогодние игрушки" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/121-55x55.jpg" class="attachment-tabs wp-post-image" alt="12" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/novogodnie-igrushki/">Новогодние игрушки</a></p>
-        
-        <p class="meta">Дек 7 &bull; 1 Просмотров</p>
-        
-</div>                    		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/sovetskoe-detstvo-zima/" title="Советское детство. Зима!" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/fullsize-55x55.jpg" class="attachment-tabs wp-post-image" alt="fullsize" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/sovetskoe-detstvo-zima/">Советское детство. Зима!</a></p>
-        
-        <p class="meta">Дек 7 &bull; 11 Просмотров</p>
-        
-</div>                    		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/" title="С Новым Годом! Ретро открытки" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/photo16-55x55.jpg" class="attachment-tabs wp-post-image" alt="photo16" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/">С Новым Годом! Ретро открытки</a></p>
-        
-        <p class="meta">Дек 7 &bull; 18 Просмотров</p>
-        
-</div>                    		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/" title="Красавица зимушка. Рисунки карандашом" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/Guram-Dolendzhashvili.-Lunnyie-nochi-Imeretii.-Variant-2-Karandash-55x55.jpg" class="attachment-tabs wp-post-image" alt="Guram-Dolendzhashvili.-Lunnyie-nochi-Imeretii.-Variant-2-Karandash" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/krasavitsa-zimushka-risunki-karandashom/">Красавица зимушка. Рисунки карандашом</a></p>
-        
-        <p class="meta">Дек 7 &bull; 16 Просмотров</p>
-        
-</div>                    		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/71-55x55.jpg" class="attachment-tabs wp-post-image" alt="7" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/">Загадочный ручей &#8212; Болтон Стрид</a></p>
-        
-        <p class="meta">Дек 7 &bull; 13 Просмотров</p>
-        
-</div>              		</li>
-        
-        
-        
-     	<li id="serpane2">	
-        					
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/" title="Возможно, собаки &#8212; это последние ангелы, которые остались с людьми на земле." >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/image-55x55.jpg" class="attachment-tabs wp-post-image" alt="image" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/">Возможно, собаки &#8212; это последние ангелы, которые остались с людьми на земле.</a></p>
-        
-        <p class="meta">Дек 3 &bull; 14926 Просмотров</p>
-        
-</div>             	
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/obyavlenie-o-prodazhe-popugaya-kotoroe-nuzhno-prochitat-kazhdomu/" title="Объявление о продаже попугая, которое нужно прочитать каждому" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/parrot1-55x55.jpg" class="attachment-tabs wp-post-image" alt="parrot1" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/obyavlenie-o-prodazhe-popugaya-kotoroe-nuzhno-prochitat-kazhdomu/">Объявление о продаже попугая, которое нужно прочитать каждому</a></p>
-        
-        <p class="meta">Дек 3 &bull; 26 Просмотров</p>
-        
-</div>             	
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/" title="С Новым Годом! Ретро открытки" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/photo16-55x55.jpg" class="attachment-tabs wp-post-image" alt="photo16" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/s-novyim-godom-retro-otkryitki/">С Новым Годом! Ретро открытки</a></p>
-        
-        <p class="meta">Дек 7 &bull; 18 Просмотров</p>
-        
-</div>             	
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/za-kazhdyiy-den-spasibo-bogu/" title="За каждый день спасибо Богу" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/77-55x55.jpg" class="attachment-tabs wp-post-image" alt="77" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/za-kazhdyiy-den-spasibo-bogu/">За каждый день спасибо Богу</a></p>
-        
-        <p class="meta">Дек 4 &bull; 54 Просмотров</p>
-        
-</div>             	
-        		<div class="tab-post">
-
-	    
-         <a href="http://n-ewsworld.net/otkryitki-kotoryie-mozhno-otpravit-vragu-i-oblegchit-dushu/" title="Открытки, которые можно отправить врагу и облегчить душу" >
-         <img width="55" height="55" src="http://n-ewsworld.net/wp-content/uploads/otkrytki-dlya-vragov_1-55x55.jpg" class="attachment-tabs wp-post-image" alt="otkrytki-dlya-vragov_1" title="" />         </a>
-         
-    
-        <p><a class="title" href="http://n-ewsworld.net/otkryitki-kotoryie-mozhno-otpravit-vragu-i-oblegchit-dushu/">Открытки, которые можно отправить врагу и облегчить душу</a></p>
-        
-        <p class="meta">Дек 6 &bull; 69 Просмотров</p>
-        
-</div>                     </li>
-        
-        
-        
-  		<li id="serpane3">
-           <a href='http://n-ewsworld.net/tag/angliya/' class='tag-link-44' title='1 запись' style='font-size: 7pt;'>Англия</a>
-<a href='http://n-ewsworld.net/tag/vodopad-atabaska/' class='tag-link-16' title='1 запись' style='font-size: 7pt;'>Водопад Атабаска</a>
-<a href='http://n-ewsworld.net/tag/kanon-nidzhyan/' class='tag-link-13' title='1 запись' style='font-size: 7pt;'>Каньон Ниджьян</a>
-<a href='http://n-ewsworld.net/tag/paulo-koelo/' class='tag-link-20' title='1 запись' style='font-size: 7pt;'>Пауло Коэльо</a>
-<a href='http://n-ewsworld.net/tag/%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%b8%d0%b2/' class='tag-link-8' title='19 записей' style='font-size: 22pt;'>Позитив</a>
-<a href='http://n-ewsworld.net/tag/puteshestviya/' class='tag-link-42' title='1 запись' style='font-size: 7pt;'>Путешествия</a>
-<a href='http://n-ewsworld.net/tag/%d1%82%d0%b8%d0%b1%d0%b5%d1%82/' class='tag-link-14' title='1 запись' style='font-size: 7pt;'>Тибет</a>
-<a href='http://n-ewsworld.net/tag/topper/' class='tag-link-43' title='1 запись' style='font-size: 7pt;'>Топпер</a>
-<a href='http://n-ewsworld.net/tag/faina-ranevskaya/' class='tag-link-39' title='1 запись' style='font-size: 7pt;'>Фаина Раневская</a>
-<a href='http://n-ewsworld.net/tag/avto/' class='tag-link-36' title='1 запись' style='font-size: 7pt;'>авто</a>
-<a href='http://n-ewsworld.net/tag/%d0%b1%d0%be%d0%b3/' class='tag-link-26' title='1 запись' style='font-size: 7pt;'>бог</a>
-<a href='http://n-ewsworld.net/tag/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be/' class='tag-link-23' title='1 запись' style='font-size: 7pt;'>видео</a>
-<a href='http://n-ewsworld.net/tag/zhivopis/' class='tag-link-30' title='1 запись' style='font-size: 7pt;'>живопись</a>
-<a href='http://n-ewsworld.net/tag/%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d0%b5/' class='tag-link-25' title='8 записей' style='font-size: 16.75pt;'>животные</a>
-<a href='http://n-ewsworld.net/tag/zhizn/' class='tag-link-40' title='1 запись' style='font-size: 7pt;'>жизнь</a>
-<a href='http://n-ewsworld.net/tag/iskusstvo/' class='tag-link-37' title='1 запись' style='font-size: 7pt;'>искусство</a>
-<a href='http://n-ewsworld.net/tag/%d0%b8%d1%81%d0%bb%d0%b0%d0%bd%d0%b4%d0%b8%d1%8f/' class='tag-link-12' title='1 запись' style='font-size: 7pt;'>исландия</a>
-<a href='http://n-ewsworld.net/tag/%d0%ba%d0%b0%d0%bd%d0%b0%d0%b4%d0%b0/' class='tag-link-17' title='1 запись' style='font-size: 7pt;'>канада</a>
-<a href='http://n-ewsworld.net/tag/karandash/' class='tag-link-45' title='1 запись' style='font-size: 7pt;'>карандаш</a>
-<a href='http://n-ewsworld.net/tag/kartinyi/' class='tag-link-29' title='6 записей' style='font-size: 15.25pt;'>картины</a>
-<a href='http://n-ewsworld.net/tag/lyubov/' class='tag-link-38' title='1 запись' style='font-size: 7pt;'>любовь</a>
-<a href='http://n-ewsworld.net/tag/lyudi/' class='tag-link-33' title='1 запись' style='font-size: 7pt;'>люди</a>
-<a href='http://n-ewsworld.net/tag/%d0%bc%d0%b8%d1%80/' class='tag-link-11' title='9 записей' style='font-size: 17.5pt;'>мир</a>
-<a href='http://n-ewsworld.net/tag/neveroyatnoe/' class='tag-link-32' title='2 записи' style='font-size: 9.7pt;'>невероятное</a>
-<a href='http://n-ewsworld.net/tag/%d0%bd%d0%be%d1%80%d0%b2%d0%b5%d0%b3%d0%b8%d1%8f/' class='tag-link-18' title='1 запись' style='font-size: 7pt;'>норвегия</a>
-<a href='http://n-ewsworld.net/tag/%d0%be%d1%81%d1%82%d1%80%d0%be%d1%83%d0%bc%d0%b8%d0%b5/' class='tag-link-9' title='1 запись' style='font-size: 7pt;'>остроумие</a>
-<a href='http://n-ewsworld.net/tag/otkryitki/' class='tag-link-46' title='1 запись' style='font-size: 7pt;'>открытки</a>
-<a href='http://n-ewsworld.net/tag/%d0%bf%d1%80%d0%b8%d1%80%d0%be%d0%b4%d0%b0/' class='tag-link-15' title='5 записей' style='font-size: 14.2pt;'>природа</a>
-<a href='http://n-ewsworld.net/tag/proroda/' class='tag-link-41' title='1 запись' style='font-size: 7pt;'>пророда</a>
-<a href='http://n-ewsworld.net/tag/%d1%80%d0%b5%d1%82%d1%80%d0%be/' class='tag-link-47' title='3 записи' style='font-size: 11.5pt;'>ретро</a>
-<a href='http://n-ewsworld.net/tag/rossiya/' class='tag-link-27' title='1 запись' style='font-size: 7pt;'>россия</a>
-<a href='http://n-ewsworld.net/tag/sobaki/' class='tag-link-34' title='1 запись' style='font-size: 7pt;'>собаки</a>
-<a href='http://n-ewsworld.net/tag/%d1%86%d0%b8%d1%82%d0%b0%d1%82%d1%8b/' class='tag-link-19' title='15 записей' style='font-size: 20.5pt;'>цитаты</a>
-<a href='http://n-ewsworld.net/tag/%d1%8e%d0%bc%d0%be%d1%80/' class='tag-link-10' title='1 запись' style='font-size: 7pt;'>юмор</a>        </li>
-     
+<div style="clear: both;"></div>
 
 
 
-</ul>
+
+
+<div id="comments">
+
+			<h3 id="comments-title">2 ответов на Возможно, собаки &#8212; это последние ангелы, которые остались с людьми на земле.</h3>
+            <div class="hrline"></div> 
+
+			<ol class="commentlist">
+						<li class="comment even thread-even depth-1 parent" id="comment-3">
+				<div id="div-comment-3" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/d30745d9a713aaa2af2aee1e1c22f2ce?s=48&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d30745d9a713aaa2af2aee1e1c22f2ce?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn"><a href='http://google' rel='external nofollow' class='url'>Veronika</a></cite><span class="says">:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/#comment-3">
+			06.12.2015 в 19:02</a>&nbsp;&nbsp;<a class="comment-edit-link" href="http://n-ewsworld.net/wp-admin/comment.php?action=editcomment&amp;c=3">(Изменить)</a>		</div>
+
+		<p>Ты знаешь, чего я забыть не в силах? –<br />
+Собак, что телами сплелись в клубок:<br />
+И пёс на обочине сбитой псине<br />
+Лизал осторожно кровавый бок.<br />
+А мимо машины неслись со свистом,<br />
+Сквозь свист прорывался собачий вой.<br />
+Пёс раны вылизывал чисто-чисто<br />
+Подруге распластанной, неживой.<br />
+И было так жутко смотреть на эти<br />
+Негибкие лапы. Ещё страшней &#8212;<br />
+На то, как хотел он её согреть и<br />
+Ложился всё ближе и ближе к ней.<br />
+Но душу мне просто порвало в клочья,<br />
+Когда он, последнюю кровь слизав,<br />
+Лёг мордой на морду ей – нежно очень&#8230;<br />
+И тихо закрыл глаза.<br />
+Юлия Вихарева</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/?replytocom=3#respond' onclick='return addComment.moveForm( "div-comment-3", "3", "respond", "74" )' aria-label='Комментарий к записи Veronika'>Ответить</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-2" id="comment-4">
+				<div id="div-comment-4" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/75fcc2d49a9ab4e629c14f828ad5a963?s=48&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/75fcc2d49a9ab4e629c14f828ad5a963?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />			<cite class="fn">Валентина</cite><span class="says">:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/#comment-4">
+			07.12.2015 в 17:34</a>&nbsp;&nbsp;<a class="comment-edit-link" href="http://n-ewsworld.net/wp-admin/comment.php?action=editcomment&amp;c=4">(Изменить)</a>		</div>
+
+		<p>Без слез невозможно читать</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://n-ewsworld.net/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/?replytocom=4#respond' onclick='return addComment.moveForm( "div-comment-4", "4", "respond", "74" )' aria-label='Комментарий к записи Валентина'>Ответить</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			</ol>
+
+
+
+						<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Добавить комментарий <small><a rel="nofollow" id="cancel-comment-reply-link" href="/vozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle/#respond" style="display:none;">Отменить ответ</a></small></h3>
+									<form action="http://n-ewsworld.net/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="logged-in-as">Вы вошли как <a href="http://n-ewsworld.net/wp-admin/profile.php">admin</a>. <a href="http://n-ewsworld.net/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F&amp;_wpnonce=e8c866da59" title="Выйти из этой учётной записи">Выйти?</a></p>																			<p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8"  aria-required="true" required="required"></textarea></p>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Отправить комментарий" /> <input type='hidden' name='comment_post_ID' value='74' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><input type="hidden" id="_wp_unfiltered_html_comment_disabled" name="_wp_unfiltered_html_comment_disabled" value="fdaeec8855" /><script>(function(){if(window===window.parent){document.getElementById('_wp_unfiltered_html_comment_disabled').name='_wp_unfiltered_html_comment';}})();</script>
+					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments -->
+
+<p>
+<span class="fl" style="width:45%;">&laquo; <a href="http://n-ewsworld.net/rabochiy-motivator/" rel="prev">Рабочий мотиватор</a></span><span class="fr" style="width:45%; text-align:right"><a href="http://n-ewsworld.net/hozyain-vozmi-menya-s-soboy/" rel="next">Хозяин, возьми меня с собой!</a> &raquo;</span>
+</p>
+
+<div style="clear: both;"></div>
 
 </div>
-<div style="clear: both;"></div>				
+
+</div>
+
+
+<div style="clear: both;"></div>
+
+</div>
+
+
+
+
+<div id="sidebar">
+
+<div class="widgetable">
+			
+				
+			<h2 class="homepage"><a href="http://n-ewsworld.net/category/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be/"></a></h2>
+			
+			            <ul style="margin-bottom:15px;">
+			
+			<li class="fblock">
+                    
+					                        
+                    <h3 class="upperfont"><a href="http://n-ewsworld.net/opyat-fortochku-zakryili-dyishat-nechem/" title="Опять форточку закрыли&#8230;.дышать нечем!!!">Опять форточку закрыли&#8230;.дышать нечем!!!</a></h3>
+                    <p class="meta">Дек 3 &bull; 35 Просмотров</p>
+                                            
+			</li>
+
+						</ul>
+
+		
+				
 				
 			<h2 class="homepage"><a href="http://n-ewsworld.net/category/iskusstvo/">Невероятное творчество</a></h2>
 			
@@ -1517,58 +555,6 @@ body.custom-background { background-color: #ffffff; }
 		
 				
 				
-			<h2 class="homepage"><a href="http://n-ewsworld.net/category/mir-vokrug-nas/">Красоты мира</a></h2>
-			
-			            <ul style="margin-bottom:15px;">
-			
-			<li class="fblock">
-                    
-					                         <a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид" >
-                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/71-90x90.jpg" class="attachment-widgets wp-post-image" alt="7" title="" />                         </a>
-                                            
-                    <h3 class="upperfont"><a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид">Загадочный ручей &#8212; Болтон Стрид</a></h3>
-                    <p class="meta">Дек 7 &bull; 13 Просмотров</p>
-                                            
-			</li>
-
-			
-			<li class="fblock">
-                    
-					                         <a href="http://n-ewsworld.net/zavorazhivayushhaya-priroda-semyorka-novyih-chudes-sveta/" title="Завораживающая природа. Семёрка новых чудес света" >
-                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/41-90x90.jpg" class="attachment-widgets wp-post-image" alt="4" title="" />                         </a>
-                                            
-                    <h3 class="upperfont"><a href="http://n-ewsworld.net/zavorazhivayushhaya-priroda-semyorka-novyih-chudes-sveta/" title="Завораживающая природа. Семёрка новых чудес света">Завораживающая природа. Семёрка новых чудес света</a></h3>
-                    <p class="meta">Дек 7 &bull; 16 Просмотров</p>
-                                            
-			</li>
-
-			
-			<li class="fblock">
-                    
-					                         <a href="http://n-ewsworld.net/priroda-v-forme-serdtsa/" title="Природа в форме сердца" >
-                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/1_8-90x90.jpg" class="attachment-widgets wp-post-image" alt="1_8" title="" />                         </a>
-                                            
-                    <h3 class="upperfont"><a href="http://n-ewsworld.net/priroda-v-forme-serdtsa/" title="Природа в форме сердца">Природа в форме сердца</a></h3>
-                    <p class="meta">Дек 7 &bull; 13 Просмотров</p>
-                                            
-			</li>
-
-			
-			<li class="fblock">
-                    
-					                         <a href="http://n-ewsworld.net/25-unikalnyih-hramov-mira/" title="25 уникальных храмов мира" >
-                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/xrami-mira678-90x90.jpg" class="attachment-widgets wp-post-image" alt="xrami mira678" title="" />                         </a>
-                                            
-                    <h3 class="upperfont"><a href="http://n-ewsworld.net/25-unikalnyih-hramov-mira/" title="25 уникальных храмов мира">25 уникальных храмов мира</a></h3>
-                    <p class="meta">Дек 6 &bull; 50 Просмотров</p>
-                                            
-			</li>
-
-						</ul>
-
-		
-				
-				
 			<h2 class="homepage"><a href="http://n-ewsworld.net/category/%d0%b6%d0%b8%d0%b2%d0%be%d1%82%d0%bd%d1%8b%d0%b5/">Друзья наши меньшие</a></h2>
 			
 			            <ul style="margin-bottom:15px;">
@@ -1579,7 +565,7 @@ body.custom-background { background-color: #ffffff; }
                          <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/image-152-90x90.jpg" class="attachment-widgets wp-post-image" alt="image (15)" title="" />                         </a>
                                             
                     <h3 class="upperfont"><a href="http://n-ewsworld.net/velichestvennyie-hraniteli-lesa/" title="Величественные хранители леса">Величественные хранители леса</a></h3>
-                    <p class="meta">Дек 6 &bull; 41 Просмотров</p>
+                    <p class="meta">Дек 6 &bull; 42 Просмотров</p>
                                             
 			</li>
 
@@ -1719,7 +705,7 @@ body.custom-background { background-color: #ffffff; }
                          <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/image-77-90x90.jpg" class="attachment-widgets wp-post-image" alt="image (77)" title="" />                         </a>
                                             
                     <h3 class="upperfont"><a href="http://n-ewsworld.net/udivi-pechen-vyipey-vodyi/" title="Удиви печень &#8212; выпей воды!">Удиви печень &#8212; выпей воды!</a></h3>
-                    <p class="meta">Дек 6 &bull; 76 Просмотров</p>
+                    <p class="meta">Дек 6 &bull; 77 Просмотров</p>
                                             
 			</li>
 
@@ -1737,6 +723,69 @@ body.custom-background { background-color: #ffffff; }
 						</ul>
 
 		
+				
+				
+			<h2 class="homepage"><a href="http://n-ewsworld.net/category/mir-vokrug-nas/">Красоты мира</a></h2>
+			
+			            <ul style="margin-bottom:15px;">
+			
+			<li class="fblock">
+                    
+					                         <a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид" >
+                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/71-90x90.jpg" class="attachment-widgets wp-post-image" alt="7" title="" />                         </a>
+                                            
+                    <h3 class="upperfont"><a href="http://n-ewsworld.net/zagadochnyiy-ruchey-bolton-strid/" title="Загадочный ручей &#8212; Болтон Стрид">Загадочный ручей &#8212; Болтон Стрид</a></h3>
+                    <p class="meta">Дек 7 &bull; 13 Просмотров</p>
+                                            
+			</li>
+
+			
+			<li class="fblock">
+                    
+					                         <a href="http://n-ewsworld.net/zavorazhivayushhaya-priroda-semyorka-novyih-chudes-sveta/" title="Завораживающая природа. Семёрка новых чудес света" >
+                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/41-90x90.jpg" class="attachment-widgets wp-post-image" alt="4" title="" />                         </a>
+                                            
+                    <h3 class="upperfont"><a href="http://n-ewsworld.net/zavorazhivayushhaya-priroda-semyorka-novyih-chudes-sveta/" title="Завораживающая природа. Семёрка новых чудес света">Завораживающая природа. Семёрка новых чудес света</a></h3>
+                    <p class="meta">Дек 7 &bull; 16 Просмотров</p>
+                                            
+			</li>
+
+			
+			<li class="fblock">
+                    
+					                         <a href="http://n-ewsworld.net/priroda-v-forme-serdtsa/" title="Природа в форме сердца" >
+                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/1_8-90x90.jpg" class="attachment-widgets wp-post-image" alt="1_8" title="" />                         </a>
+                                            
+                    <h3 class="upperfont"><a href="http://n-ewsworld.net/priroda-v-forme-serdtsa/" title="Природа в форме сердца">Природа в форме сердца</a></h3>
+                    <p class="meta">Дек 7 &bull; 13 Просмотров</p>
+                                            
+			</li>
+
+			
+			<li class="fblock">
+                    
+					                         <a href="http://n-ewsworld.net/25-unikalnyih-hramov-mira/" title="25 уникальных храмов мира" >
+                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/xrami-mira678-90x90.jpg" class="attachment-widgets wp-post-image" alt="xrami mira678" title="" />                         </a>
+                                            
+                    <h3 class="upperfont"><a href="http://n-ewsworld.net/25-unikalnyih-hramov-mira/" title="25 уникальных храмов мира">25 уникальных храмов мира</a></h3>
+                    <p class="meta">Дек 6 &bull; 50 Просмотров</p>
+                                            
+			</li>
+
+			
+			<li class="fblock">
+                    
+					                         <a href="http://n-ewsworld.net/drevniy-hram-v-skale-petra-iordaniya/" title="Древний храм в скале, Петра, Иордания" >
+                         <img width="90" height="90" src="http://n-ewsworld.net/wp-content/uploads/image-47-90x90.jpg" class="attachment-widgets wp-post-image" alt="image (47)" title="" />                         </a>
+                                            
+                    <h3 class="upperfont"><a href="http://n-ewsworld.net/drevniy-hram-v-skale-petra-iordaniya/" title="Древний храм в скале, Петра, Иордания">Древний храм в скале, Петра, Иордания</a></h3>
+                    <p class="meta">Дек 4 &bull; 238 Просмотров</p>
+                                            
+			</li>
+
+						</ul>
+
+		
 		<h2>Новости партнеров</h2>			<div class="textwidget"><?php
      if (!defined('_SAPE_USER')){
         define('_SAPE_USER', '081ac659967175b1a65c9623c1b4582b');
@@ -1744,23 +793,17 @@ body.custom-background { background-color: #ffffff; }
      require_once(realpath($_SERVER['DOCUMENT_ROOT'].'/'._SAPE_USER.'/sape.php'));
      $sape = new SAPE_client();
 ?></div>
-				
-	    <div class="twinsbox"  style="margin-bottom:0;">
-                	
-            <ul style="margin-bottom:15px;">
-
-			</ul></div>			<div class="textwidget"><p><!-- start feedwind code --><script type="text/javascript">document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');</script><script type="text/javascript">(function() {var params = {rssmikle_url: "http://feeds.feedburner.com/N-ewsworldnet",rssmikle_frame_width: "300",rssmikle_frame_height: "400",frame_height_by_article: "0",rssmikle_target: "_blank",rssmikle_font: "Arial, Helvetica, sans-serif",rssmikle_font_size: "12",rssmikle_border: "off",responsive: "off",rssmikle_css_url: "",text_align: "right",text_align2: "right",corner: "off",scrollbar: "off",autoscroll: "off",scrolldirection: "up",scrollstep: "3",mcspeed: "20",sort: "Off",rssmikle_title: "on",rssmikle_title_sentence: "",rssmikle_title_link: "",rssmikle_title_bgcolor: "#0066FF",rssmikle_title_color: "#FFFFFF",rssmikle_title_bgimage: "",rssmikle_item_bgcolor: "#FFFFFF",rssmikle_item_bgimage: "",rssmikle_item_title_length: "55",rssmikle_item_title_color: "#0066FF",rssmikle_item_border_bottom: "on",rssmikle_item_description: "on",item_link: "off",rssmikle_item_description_length: "200",rssmikle_item_description_color: "#666666",rssmikle_item_date: "off",rssmikle_timezone: "Etc/GMT",datetime_format: "%b %e, %Y %l:%M %p",item_description_style: "text",item_thumbnail: "full",item_thumbnail_selection: "auto",article_num: "15",rssmikle_item_podcast: "off",keyword_inc: "",keyword_exc: ""};feedwind_show_widget_iframe(params);})();</script>
-<div style="font-size:10px; text-align:center; width:300px;"><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a><!--Please display the above link in your web page according to Terms of Service.--></div>
-<p><!-- end feedwind code --></p>
+			
 </div>
-		    </div><!-- #sidebar -->
-            
-    
-    <div id="core_bg"></div>
+</div>
+
+<div id="core_bg"></div>
 
 </div><!-- #core -->
-        
-<div id="footer" class="body2">
+
+
+
+<div id="footer" class="body2">
     
     	<div class="threecol first"> 
     
@@ -1945,14 +988,14 @@ var _acic={dataProvider:10};(function(){var e=document.createElement("script");e
 		<li id="wp-admin-bar-widgets"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/widgets.php">Виджеты</a>		</li>
 		<li id="wp-admin-bar-menus"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/nav-menus.php">Меню</a>		</li>
 		<li id="wp-admin-bar-background" class="hide-if-customize"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/themes.php?page=custom-background">Фон</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/customize.php?url=http%3A%2F%2Fn-ewsworld.net%2F">Настроить</a>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/customize.php?url=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F">Настроить</a>		</li>
 		<li id="wp-admin-bar-comments"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/edit-comments.php" title="0 комментариев ожидают проверки"><span class="ab-icon"></span><span id="ab-awaiting-mod" class="ab-label awaiting-mod pending-count count-0">0</span></a>		</li>
 		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://n-ewsworld.net/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">Добавить</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
 		<li id="wp-admin-bar-new-post"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/post-new.php">Запись</a>		</li>
 		<li id="wp-admin-bar-new-media"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/media-new.php">Медиафайл</a>		</li>
 		<li id="wp-admin-bar-new-page"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/post-new.php?post_type=page">Страницу</a>		</li>
 		<li id="wp-admin-bar-new-user"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/user-new.php">Пользователя</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-edit"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/post.php?post=4&#038;action=edit">Редактировать страницу</a>		</li>
+		<li id="wp-admin-bar-edit"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/post.php?post=74&#038;action=edit">Редактировать запись</a>		</li>
 		<li id="wp-admin-bar-su-menu" class="menupop seo-ultimate"><a class="ab-item"  aria-haspopup="true" href="http://n-ewsworld.net/wp-admin/admin.php?page=seo" title="SEO">SEO</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-su-menu-default" class="ab-submenu">
 		<li id="wp-admin-bar-su-menu-settings" class="menupop"><div class="ab-item ab-empty-item"  aria-haspopup="true">SEO Settings</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-su-menu-settings-default" class="ab-submenu">
 		<li id="wp-admin-bar-su-modules" class="su-modules"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/admin.php?page=seo" title="Modules">Modules</a>		</li>
@@ -1985,20 +1028,20 @@ var _acic={dataProvider:10};(function(){var e=document.createElement("script");e
 		<li id="wp-admin-bar-su-adwordsexternal"><a class="ab-item"  href="http://adwords.google.com/keywordplanner" target="_blank">Google AdWords Keyword Planner</a>		</li>
 		<li id="wp-admin-bar-su-googleinsights"><a class="ab-item"  href="https://www.google.com/trends/" target="_blank">Google Insights</a>		</li></ul></div>		</li>
 		<li id="wp-admin-bar-su-analysis" class="menupop"><div class="ab-item ab-empty-item"  aria-haspopup="true">Page Analysis Tools</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-su-analysis-default" class="ab-submenu">
-		<li id="wp-admin-bar-su-inlinks-ose"><a class="ab-item"  href="//moz.com/researchtools/ose/links?site=http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">Check OSE DA/PA</a>		</li>
-		<li id="wp-admin-bar-su-kwdensity"><a class="ab-item"  href="//www.zippy.co.uk/keyworddensity/index.php?url=http%3A%2F%2Fn-ewsworld.net%2F&#038;keyword=" target="_blank">Check Keyword Density</a>		</li>
-		<li id="wp-admin-bar-su-cache"><a class="ab-item"  href="//webcache.googleusercontent.com/search?strip=1&#038;q=cache:http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">Check Google Cache</a>		</li>
-		<li id="wp-admin-bar-su-header"><a class="ab-item"  href="//quixapp.com/headers/?r=http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">Check Headers</a>		</li>
-		<li id="wp-admin-bar-su-richsnippets"><a class="ab-item"  href="//www.google.com/webmasters/tools/richsnippets?q=http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">Check Rich Snippets</a>		</li>
-		<li id="wp-admin-bar-su-facebookdebug"><a class="ab-item"  href="//developers.facebook.com/tools/debug/og/object?q=http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">Facebook Debugger</a>		</li>
-		<li id="wp-admin-bar-su-pinterestvalidator"><a class="ab-item"  href="//developers.pinterest.com/rich_pins/validator/?link=http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">Pinterest Rich Pins Validator</a>		</li>
-		<li id="wp-admin-bar-su-htmlvalidation"><a class="ab-item"  href="//validator.w3.org/check?uri=http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">HTML Validator</a>		</li>
-		<li id="wp-admin-bar-su-cssvalidation"><a class="ab-item"  href="//jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">CSS Validator</a>		</li>
-		<li id="wp-admin-bar-su-pagespeed"><a class="ab-item"  href="//developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">Google Page Speed Test</a>		</li>
-		<li id="wp-admin-bar-su-modernie"><a class="ab-item"  href="//www.modern.ie/en-us/report#http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">Modern IE Site Scan</a>		</li>
-		<li id="wp-admin-bar-su-page-archive"><a class="ab-item"  href="https://www.archive.org/web/*/http%3A%2F%2Fn-ewsworld.net%2F" target="_blank">Wayback Machine Page Archive</a>		</li></ul></div>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-su-inlinks-ose"><a class="ab-item"  href="//moz.com/researchtools/ose/links?site=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">Check OSE DA/PA</a>		</li>
+		<li id="wp-admin-bar-su-kwdensity"><a class="ab-item"  href="//www.zippy.co.uk/keyworddensity/index.php?url=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F&#038;keyword=" target="_blank">Check Keyword Density</a>		</li>
+		<li id="wp-admin-bar-su-cache"><a class="ab-item"  href="//webcache.googleusercontent.com/search?strip=1&#038;q=cache:http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">Check Google Cache</a>		</li>
+		<li id="wp-admin-bar-su-header"><a class="ab-item"  href="//quixapp.com/headers/?r=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">Check Headers</a>		</li>
+		<li id="wp-admin-bar-su-richsnippets"><a class="ab-item"  href="//www.google.com/webmasters/tools/richsnippets?q=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">Check Rich Snippets</a>		</li>
+		<li id="wp-admin-bar-su-facebookdebug"><a class="ab-item"  href="//developers.facebook.com/tools/debug/og/object?q=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">Facebook Debugger</a>		</li>
+		<li id="wp-admin-bar-su-pinterestvalidator"><a class="ab-item"  href="//developers.pinterest.com/rich_pins/validator/?link=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">Pinterest Rich Pins Validator</a>		</li>
+		<li id="wp-admin-bar-su-htmlvalidation"><a class="ab-item"  href="//validator.w3.org/check?uri=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">HTML Validator</a>		</li>
+		<li id="wp-admin-bar-su-cssvalidation"><a class="ab-item"  href="//jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">CSS Validator</a>		</li>
+		<li id="wp-admin-bar-su-pagespeed"><a class="ab-item"  href="//developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">Google Page Speed Test</a>		</li>
+		<li id="wp-admin-bar-su-modernie"><a class="ab-item"  href="//www.modern.ie/en-us/report#http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">Modern IE Site Scan</a>		</li>
+		<li id="wp-admin-bar-su-page-archive"><a class="ab-item"  href="https://www.archive.org/web/*/http%3A%2F%2Fn-ewsworld.net%2Fvozmozhno-sobaki-eto-poslednie-angelyi-kotoryie-ostalis-s-lyudmi-na-zemle%2F" target="_blank">Wayback Machine Page Archive</a>		</li></ul></div>		</li></ul></div>		</li>
 		<li id="wp-admin-bar-all-in-one-seo-pack" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://n-ewsworld.net/wp-admin/admin.php?page=all-in-one-seo-pack/aioseop_class.php">SEO</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-all-in-one-seo-pack-default" class="ab-submenu">
-		<li id="wp-admin-bar-aiosp_edit_4"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/post.php?post=4&#038;action=edit#aiosp">Править SEO</a>		</li>
+		<li id="wp-admin-bar-aiosp_edit_74"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/post.php?post=74&#038;action=edit#aiosp">Править SEO</a>		</li>
 		<li id="wp-admin-bar-all-in-one-seo-pack/aioseop_performance.php"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/admin.php?page=all-in-one-seo-pack/aioseop_performance.php">Производительность</a>		</li>
 		<li id="wp-admin-bar-all-in-one-seo-pack/aioseop_sitemap.php"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/admin.php?page=all-in-one-seo-pack/aioseop_sitemap.php">XML Карта сайта</a>		</li>
 		<li id="wp-admin-bar-aiosp_opengraph"><a class="ab-item"  href="http://n-ewsworld.net/wp-admin/admin.php?page=aiosp_opengraph">Социальные мета</a>		</li>
